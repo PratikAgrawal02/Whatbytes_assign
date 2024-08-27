@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "776547248958",
+    "firebase_url": "https://whatbytes-f2052-default-rtdb.firebaseio.com",
+    "project_id": "whatbytes-f2052",
+    "storage_bucket": "whatbytes-f2052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776547248958:android:99b7a2a3538b147058da6f",
+        "android_client_info": {
+          "package_name": "com.pratik.whatbytes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1Nl3jzXPJv4fftzpPoycCJs0x7Lmn6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
